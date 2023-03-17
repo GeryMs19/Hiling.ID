@@ -4,15 +4,15 @@ Hiling.id
 Apk Preview 
 ---
 <p align="center">
-    <img width="200px" src="./src/assets/tampilan1.jpg">
+    <img width="200px" src="assets/tampilan1.jpg">
 </p>
 
 <p align="center">
-    <img width="200px" src="./src/assets/tampilan2.jpg">
+    <img width="200px" src="assets/tampilan2.jpg">
 </p>
 
 <p align="center">
-    <img width="200px" src="./src/assets/tampilan3.jpg">
+    <img width="200px" src="assets/tampilan3.jpg">
 </p>
 
 
